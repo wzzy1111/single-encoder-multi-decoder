@@ -3,7 +3,9 @@
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/6fdf4152-b59e-49e0-be70-9983e1d3b502" />
 
 <p align="center">
-  <video src="./demo.mp4?raw=true" controls width="600"></video>
+  <video src="https://raw.githubusercontent.com/401-Zzy/你的仓库名/main/demo.mp4" controls width="600"></video>
 </p>
 
+
+会在后续整理并补齐源码。
 
